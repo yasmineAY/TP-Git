@@ -1,0 +1,8 @@
+Blague 1 : Pourquoi les programmeurs aiment Java ?
+Parce que Java est un langage caféiné !
+
+Blague 2 : Pourquoi le développeur aime Git ?
+Parce qu'il peut revenir en arrière !
+
+Blague 3 : Pourquoi les informaticiens préfèrent le noir ?
+Parce que la lumière attire les bugs !
